@@ -21,3 +21,4 @@ _Тратим в основном по 5-6 часов по выходным._
 Telegram:
 - dusn1z: https://t.me/dusn1z
 - nnmore: https://t.me/kharlamovegor
+- Канал: https://t.me/grungeandcoding
