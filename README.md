@@ -7,7 +7,7 @@
 - [X] Python
 - [ ] Rust
 - [ ] C++
-- [ ] TypeScript
+- [X] TypeScript
 - [ ] PHP (?)
 
 ## Расписание:
